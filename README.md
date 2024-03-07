@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📫 How to reach me [Connect](mailto:harshyadav.cse2020@ritroorkee.com)
+- 📫 How to reach me [Connect](mailto:yadavharsh.hy01@gmail.com)
 
 - 📄 Know about my experiences [View CV](https://docs.google.com/document/d/1aiAtsCXut44ZyjHRK6yufVBYzfZduqfmXt6jEy_Xkc8/edit#heading=h.5u7vykzuhoo)
 
