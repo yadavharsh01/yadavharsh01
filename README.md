@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [Connect](mailto:yadavharsh.hy01@gmail.com)
 
-- 📄 Checkout [Resume](https://drive.google.com/file/d/1S9_L6MfBQLQQiI9f_Q9DZ1GqFd7Xjt7m/view?pli=1)
+- 📄 Checkout [Resume](https://drive.google.com/file/d/1Q5yV5wGBTQCXlDsXdrKSgHMDS1P7omVf/view?usp=sharing)
 
 - 📄 Know More About My Experiences [View CV](https://docs.google.com/document/d/1aiAtsCXut44ZyjHRK6yufVBYzfZduqfmXt6jEy_Xkc8/edit#heading=h.5u7vykzuhoo)
 <h2 align="left">Connect with me:</h2>
