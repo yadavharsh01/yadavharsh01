@@ -13,9 +13,9 @@
 
 - 📫 How to reach me [Connect](mailto:yadavharsh.hy01@gmail.com)
 
-- 📄 Checkout [Resume](https://drive.google.com/file/d/1tHmA1HnLf8zySRkgWFtUezaP5e25S4Oc/view)
+- 📄 Checkout [Resume](https://drive.google.com/file/d/1OljEF6xJGqnNGOeG_uvAiz-zZ5k6ljpl/view?usp=drive_link)
 
-- 📄 Know More About My Experiences [View CV](https://drive.google.com/file/d/1tHmA1HnLf8zySRkgWFtUezaP5e25S4Oc/view)
+- 📄 Know More About My Experiences [View CV](https://drive.google.com/file/d/1OljEF6xJGqnNGOeG_uvAiz-zZ5k6ljpl/view?usp=drive_link)
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/yadavharsh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadavharsh01" height="30" width="40" /></a>
